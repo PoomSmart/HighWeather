@@ -1,0 +1,9 @@
+Package: com.ps.highweather
+Name: HighWeather
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Best graphics for iOS 15 Weather app
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
